@@ -1,0 +1,552 @@
+17882 bash 1669694219714675871 0 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219714697996 22125 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715695124 0 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715696385 1261 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715711788 0 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715712261 473 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715740125 0 write /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219715760070 19945 write /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219715764668 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219715767298 2630 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715779557 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715780622 1065 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715783985 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715786432 2447 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219715787903 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219715788294 391 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715808450 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715812794 4344 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715818086 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715818503 417 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715822551 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219715823195 644 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219715823737 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219715824560 823 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715826437 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715827944 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715828066 1629 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715828956 1012 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715830430 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715831530 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715832834 2404 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715833336 1806 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715849665 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715849759 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715854368 4609 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715855503 5838 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715858706 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715859079 373 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715859580 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715859887 307 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715862350 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219715862916 566 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715862944 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219715863160 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219715863372 428 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219715863788 628 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219715910478 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219715913155 2677 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219715924203 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219715924895 692 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219715928366 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219715929113 747 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219715980393 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219715984030 3637 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219716043756 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219716045042 1286 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219716053155 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219716053907 752 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219716069119 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219716069700 581 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219716105201 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219716109503 4302 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219716158161 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219716159492 1331 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219716200769 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219716201808 1039 read  <NA> <NA> <NA> <NA> <NA>
+1614 gdbus 1669694219716223019 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gdbus 1669694219716223678 659 read  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718130696 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718132093 1397 write  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718191699 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718192838 1139 read  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718194976 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718195515 539 write  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718254123 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718254602 479 read  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718291619 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718292283 664 write  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718295573 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 pool-tracker-mi 1669694219718295903 330 write  <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718321652 0 write /home/sujatha/.cache/tracker3/files/last-crawl.txt.B0LRW1 <NA> <NA> <NA> <NA> <NA>
+1614 tracker-miner-f 1669694219718326240 4588 write /home/sujatha/.cache/tracker3/files/last-crawl.txt.B0LRW1 <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219724454895 0 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219724457213 2318 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724696447 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724697863 1416 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724896096 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724899646 3550 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724923226 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724923957 731 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219724944771 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219724947292 2521 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724972325 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219724973025 700 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725026370 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725027644 1274 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725064688 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725065239 551 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725068017 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725068383 366 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725077387 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725078021 634 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725131967 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725135599 3632 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725148260 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725148739 479 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725150627 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725151878 1251 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725160038 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725160431 393 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725166827 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725167339 512 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725210704 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725212167 1463 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725220354 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725221046 692 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725230703 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725231216 513 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725245067 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725245560 493 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725277291 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725277830 539 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725284364 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725284875 511 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725291273 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725291929 656 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725315651 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725316704 1053 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725325789 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219725326736 947 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725331597 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219725332045 448 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725338334 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725339443 1109 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725342561 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725342815 254 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725344871 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725345065 194 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725350555 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725351059 504 read  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725365598 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725366262 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725366549 951 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725366754 492 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725369776 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725370206 430 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725381907 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725382655 748 read  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725397487 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725397889 402 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725399183 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725400368 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725400978 610 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725402985 3802 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725408208 0 read  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725408794 586 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725411128 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725411595 467 write  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219725411873 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219725412815 942 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725416311 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219725416748 437 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725440727 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725444352 3625 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725465057 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725467547 2490 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725469701 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725471041 1340 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725476498 0 write  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725476879 381 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725480030 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219725480598 568 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725481441 0 read  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725481819 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725482184 743 read  <NA> <NA> <NA> <NA> <NA>
+1944 gdbus 1669694219725482221 402 read  <NA> <NA> <NA> <NA> <NA>
+1944 ibus-extension- 1669694219725488755 0 read  <NA> <NA> <NA> <NA> <NA>
+1944 ibus-extension- 1669694219725489439 684 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725586402 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725587115 713 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725711230 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219725712664 1434 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726046593 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726047655 1062 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726369801 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726371293 1492 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726394430 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219726395255 825 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219742821878 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219742823829 1951 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743088781 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743090801 2020 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743112609 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743112879 270 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743149482 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219743150457 975 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745469945 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745470714 769 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745473821 0 read /dev/dri/card0 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745475699 1878 read /dev/dri/card0 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745484507 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745484758 251 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745494521 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219745494879 358 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762158200 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762159948 1748 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762162066 0 read /dev/dri/card0 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762163891 1825 read /dev/dri/card0 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762173102 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762173340 238 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762193719 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219762194456 737 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219765875049 0 write  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219765877811 2762 write  <NA> <NA> <NA> <NA> <NA>
+8374 DedicatedWorker 1669694219770760092 0 write  <NA> <NA> <NA> <NA> <NA>
+8374 DedicatedWorker 1669694219770762375 2283 write  <NA> <NA> <NA> <NA> <NA>
+8374 DedicatedWorker 1669694219770896881 0 read  <NA> <NA> <NA> <NA> <NA>
+8374 DedicatedWorker 1669694219770898155 1274 read  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219772431209 0 write /run/user/1000/vscode-ipc-cad86051-ea92-47a7-ba56-2b990187f1b8.sock <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219772438769 7560 write /run/user/1000/vscode-ipc-cad86051-ea92-47a7-ba56-2b990187f1b8.sock <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219772446108 0 write  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219772449644 3536 write  <NA> <NA> <NA> <NA> <NA>
+8476 code 1669694219772464423 0 read  <NA> 0 <NA> <NA> <NA>
+8476 code 1669694219772470367 5944 read  <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219772497334 0 read  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219772498118 784 read  <NA> <NA> <NA> <NA> <NA>
+8476 code 1669694219773809604 0 write  <NA> 0 <NA> <NA> <NA>
+8476 code 1669694219773815128 5524 write  <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219773918289 0 read /run/user/1000/vscode-ipc-cad86051-ea92-47a7-ba56-2b990187f1b8.sock <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219773920866 2577 read /run/user/1000/vscode-ipc-cad86051-ea92-47a7-ba56-2b990187f1b8.sock <NA> 0 <NA> <NA> <NA>
+8304 code 1669694219773975302 0 write  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219773976215 913 write  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219774054081 0 read  <NA> <NA> <NA> <NA> <NA>
+8304 code 1669694219774054661 580 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790961658 0 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790964192 2534 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790971680 0 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790972172 492 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790990045 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219790992735 2690 write  <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791007168 0 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791008784 1616 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791013560 0 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791013882 322 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791016860 0 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+706 acpid 1669694219791017173 313 read /dev/input/event3 <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791042834 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791044566 1732 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791079768 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791080263 495 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791080807 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791080996 189 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791081870 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791082055 185 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791082860 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791083051 191 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791083593 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791083779 186 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791276501 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791279065 2564 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791317312 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219791317864 552 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219791341661 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219791342763 1102 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791386952 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791388169 1217 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791418889 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791419274 385 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791422058 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791422421 363 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791430264 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791430968 704 read  <NA> <NA> <NA> <NA> <NA>
+13569 Timer 1669694219791436104 0 write pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Timer 1669694219791442014 5910 write pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791456217 0 read pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791458687 2470 read pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791467537 0 write pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791468117 580 write pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791476087 0 read pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+13569 Isolated 1669694219791476400 313 read pipe:[123705] <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791477038 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791478831 1793 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791488918 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791489724 806 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791537290 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791538098 808 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791543455 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791543910 455 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791549017 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791549413 396 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791554775 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791555236 461 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791591743 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791592851 1108 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791597615 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791597967 352 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791605230 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791605939 709 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791611501 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219791612051 550 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791699806 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791701580 1774 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791726918 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791727181 263 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791729011 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791729205 194 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791734570 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791735095 525 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791768341 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791770876 2535 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791776690 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791776929 239 write  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219791778793 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219791779710 917 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791780214 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791780487 273 read  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219791851278 0 write  <NA> <NA> <NA> <NA> <NA>
+1992 ibus-engine-sim 1669694219791852355 1077 write  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791912983 0 read  <NA> <NA> <NA> <NA> <NA>
+1992 gdbus 1669694219791914019 1036 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791932852 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791933290 438 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791947463 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791948000 537 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791949637 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791949961 324 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791955306 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219791955841 535 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792008569 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792009516 947 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792012336 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792012773 437 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792015184 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792015616 432 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792019756 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792020101 345 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792024398 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792024790 392 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792042412 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792043457 1045 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792047551 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792047955 404 read  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792054015 0 write  <NA> <NA> <NA> <NA> <NA>
+1847 gdbus 1669694219792054380 365 write  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792059650 0 read  <NA> <NA> <NA> <NA> <NA>
+1847 ibus-daemon 1669694219792060110 460 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792131907 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792133050 1143 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792150134 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792150440 306 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792152391 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792152595 204 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792158803 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792159293 490 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792184033 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792185352 1319 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792192208 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792192504 296 write  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792197606 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gdbus 1669694219792197915 309 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792236274 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792237366 1092 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792305096 0 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792305701 605 write  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792327254 0 read  <NA> <NA> <NA> <NA> <NA>
+1708 gnome-shell 1669694219792327654 400 read  <NA> <NA> <NA> <NA> <NA>
+699 systemd-oomd 1669694219802932713 0 read  <NA> <NA> <NA> <NA> <NA>
+699 systemd-oomd 1669694219802934261 1548 read  <NA> <NA> <NA> <NA> <NA>
+699 systemd-oomd 1669694219802976677 0 read /proc/meminfo <NA> <NA> <NA> <NA> <NA>
+699 systemd-oomd 1669694219802988773 12096 read /proc/meminfo <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219812736455 0 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219812738405 1950 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219813085186 0 read /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219813089469 4283 read /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219813105594 0 write /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219813121748 16154 write /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813127770 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813130416 2646 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813141112 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813142373 1261 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813144777 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813147504 2727 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813155837 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813156382 545 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813180309 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813181723 1414 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813181792 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813182640 848 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813184729 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813184734 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813187543 2809 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813187635 2906 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813196053 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813200417 4364 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813205417 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813205846 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813207697 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813208604 907 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813211220 5374 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813211444 6027 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813215358 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813215589 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813215883 525 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813215910 321 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813220264 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813220302 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813220823 521 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813220837 573 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219813221117 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219813222149 1032 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813226421 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813227262 841 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813228705 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813230107 1402 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813234775 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813235945 1170 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813286865 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813287786 921 write  <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813387421 0 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813389030 1609 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219813429042 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219813431876 2834 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813439648 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813440538 890 read  <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813628162 0 read /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813631502 3340 read /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813645365 0 write /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219813656954 11589 write /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813663111 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813665664 2553 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813666135 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813666922 787 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813667897 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813669779 1882 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813679174 0 write  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813680329 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219813680746 417 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813681063 1889 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813684488 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813684891 403 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813687985 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219813688513 528 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813696255 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813696995 740 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813698197 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813699281 1084 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813701311 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813703106 1795 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813714149 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813717821 3672 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813721775 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813722206 431 write  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219813725087 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813725386 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219813725577 490 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219813725940 554 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813741495 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813742030 535 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813742818 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813744001 1183 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813751846 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813752911 1065 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813756392 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813756689 297 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813759518 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219813759929 411 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813778651 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219813779449 798 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813787665 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813788828 1163 read  <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219813929355 0 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219813930441 1086 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219813945157 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219813946765 1608 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813954921 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219813955792 871 read  <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814129828 0 read /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814133732 3904 read /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814147097 0 write /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814165148 18051 write /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219814169887 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219814171556 1669 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814172557 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814173349 792 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814174213 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814174771 0 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814175317 546 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814175850 1637 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814176466 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814177988 1522 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219814183511 0 read  <NA> <NA> <NA> <NA> <NA>
+8477 code 1669694219814183925 414 read  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814184286 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814185496 1210 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814186087 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814188735 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814189582 847 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814190638 4551 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814194131 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814194455 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 gmain 1669694219814194680 549 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814194903 448 write  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814197494 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gmain 1669694219814198080 586 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219814203912 0 read  <NA> <NA> <NA> <NA> <NA>
+17201 gedit 1669694219814204392 480 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219814210876 0 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219814212089 1213 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814213118 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814213822 704 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814214717 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814216477 1760 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814224321 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814226249 1928 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814229872 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814230213 341 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219814232827 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219814233328 501 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814233524 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 gmain 1669694219814233994 470 read  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219814244495 0 write  <NA> <NA> <NA> <NA> <NA>
+1614 Monitor 1669694219814245020 525 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219814416823 0 write  <NA> <NA> <NA> <NA> <NA>
+11323 pool-org.gnome. 1669694219814418684 1861 write  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219814425513 0 read  <NA> <NA> <NA> <NA> <NA>
+11323 nautilus 1669694219814426202 689 read  <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814461674 0 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814462934 1260 read /lib/x86_64-linux-gnu/libc.so.6 <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814628763 0 read /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814632955 4192 read /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814639759 0 write /dev/pts/3 <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814646532 6773 write /dev/pts/3 <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814647267 0 read /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+17886 sh 1669694219814647716 449 read /home/sujatha/Documents/software-security/scripts/s5.sh <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814703030 0 read /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+17885 sh 1669694219814704252 1222 read /home/sujatha/Documents/software-security/scripts/s4.sh <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814706305 0 write  <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814707333 1028 write  <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814731250 0 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814734750 3500 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814735096 0 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814735687 591 read /dev/ptmx <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814738664 0 write  <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814739009 345 write  <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814746489 0 read  <NA> <NA> <NA> <NA> <NA>
+3291 gnome-terminal- 1669694219814746898 409 read  <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219814813582 0 read /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+17884 sh 1669694219814815331 1749 read /home/sujatha/Documents/software-security/scripts/s3.sh <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219814881080 0 read /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+17883 sh 1669694219814882340 1260 read /home/sujatha/Documents/software-security/scripts/s2.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219814971488 0 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
+17882 bash 1669694219814972658 1170 read /home/sujatha/Documents/software-security/scripts/s1.sh <NA> <NA> <NA> <NA> <NA>
